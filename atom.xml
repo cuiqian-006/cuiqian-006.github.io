@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>橘子哥哥的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-02T15:24:31.911Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>橘子哥哥</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/06/02/hello-world/"/>
+    <id>http://yoursite.com/2020/06/02/hello-world/</id>
+    <published>2020-06-02T15:35:14.457Z</published>
+    <updated>2020-06-02T15:24:31.911Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Spring5 — 架构图</title>
+    <link href="http://yoursite.com/2020/06/02/Spring5%20%E2%80%94%20%E6%9E%B6%E6%9E%84%E5%9B%BE/"/>
+    <id>http://yoursite.com/2020/06/02/Spring5%20%E2%80%94%20%E6%9E%B6%E6%9E%84%E5%9B%BE/</id>
+    <published>2020-06-02T14:59:55.000Z</published>
+    <updated>2020-06-02T14:34:04.172Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E6%9E%B6%E6%9E%84%E5%9B%BE/Spring%E6%9E%B6%E6%9E%84%E5%9B%BE.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E6%9E%B6%E6%9E%84%E5%9B
+      
+    
+    </summary>
+    
+    
+      <category term="Spring5" scheme="http://yoursite.com/categories/Spring5/"/>
+    
+    
+      <category term="Spring5" scheme="http://yoursite.com/tags/Spring5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring5 — 组件及各模块依赖关系</title>
+    <link href="http://yoursite.com/2020/06/02/Spring5%20%E2%80%94%20%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/"/>
+    <id>http://yoursite.com/2020/06/02/Spring5%20%E2%80%94%20%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/</id>
+    <published>2020-06-02T14:59:55.000Z</published>
+    <updated>2020-06-02T14:34:09.077Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/Spring%E7%BB%84%E4%BB%B61.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/Spring%E7%BB%84%E4%BB%B62.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/Spring%E7%BB%84%E4%BB%B63.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/Spring%E7%BB%84%E4%BB%B64.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/Spring%E7%BB%84%E4%BB%B65.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E7%BB%84%E4%BB%B6%E5%8F%8A%E5%90%84%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/Spring%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.2.0/Spring5/%E7%BB%84%E4%BB%B6%E5%8F
+      
+    
+    </summary>
+    
+    
+      <category term="Spring5" scheme="http://yoursite.com/categories/Spring5/"/>
+    
+    
+      <category term="Spring5" scheme="http://yoursite.com/tags/Spring5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — HelloWord</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20HelloWord/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20HelloWord/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:55:03.437Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/5.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/6.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/7.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/HelloWorld/1.png&quot; class=&quot;lo
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — Module</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20Module%E6%A6%82%E5%BF%B5/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20Module%E6%A6%82%E5%BF%B5/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2020-06-02T14:10:15.450Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Module/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Module/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Module/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Module/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Module/5.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Module/6.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Module/1.png&quot; class=&quot;lozad&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — Maven</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20Maven/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20Maven/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:58:38.435Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/5.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/6.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/7.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/8.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/9.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/10.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/11.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/12.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Maven/1.png&quot; class=&quot;lozad&quot;&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 常规配置</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20IDEA%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20IDEA%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:55:17.762Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/5.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/6.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/7.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/8.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/9.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/10.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/11.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/12.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/13.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/14.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/15.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D%E7%BD%AE/16.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%B8%B8%E8%A7%84%E9%85%8D
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — Tomcat</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20Tomcat/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20Tomcat/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:59:03.697Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Tomcat/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Tomcat/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Tomcat/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Tomcat/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Tomcat/5.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Tomcat/6.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/Tomcat/1.png&quot; class=&quot;lozad&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 快捷键使用</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:54:31.519Z</updated>
+    
+    <content type="html"><![CDATA[<p>快捷键的使用：<br>1  执行(run)       alt+r<br>2  提示补全 (Class Name Completion)            alt+/<br>3  单行注释                     ctrl + /<br>4  多行注释   ctrl + shift + /<br>5  向下复制一行 (Duplicate Lines)            ctrl+alt+down<br>6  删除一行或选中行 (delete line)          ctrl+d<br>7  向下移动行(move statement down)          alt+down<br>8  向上移动行(move statement up)               alt+up<br>9  向下开始新的一行(start new line)            shift+enter<br>10 向上开始新的一行 (Start New Line before current)       ctrl+shift+enter<br>11 如何查看源码 (class)             ctrl + 选中指定的结构 或 ctrl + shift + t(搜索源码)<br>12 万能解错/生成返回值变量               alt + enter<br>13 退回到前一个编辑的页面 (back)          alt + left<br>14 进入到下一个编辑的页面(针对于上条) (forward)       alt + right<br>15 查看继承关系(type hierarchy)          F4</p><p>16 格式化代码(reformat code)               ctrl+shift+F<br>17 提示方法参数类型(Parameter Info)            ctrl+alt+/<br>18 复制代码                     ctrl + c<br>19 撤销                      ctrl + z<br>20 反撤销                      ctrl + y<br>21 剪切                      ctrl + x<br>22 粘贴                      ctrl + v<br>23 保存                      ctrl + s<br>24 全选                      ctrl + a<br>25 选中数行，整体往后移动                tab<br>26 选中数行，整体往前移动                shift + tab<br>27 查看类的结构：类似于eclipse的outline        ctrl+o<br>28 重构：修改变量名与方法名(rename)            alt+shift+r<br>29 大写转小写/小写转大写(toggle case)            ctrl+shift+y<br>30 生成构造器/get/set/toString                 alt +shift + s</p><p>31 查看文档说明(quick documentation)             F2<br>32 收起所有的方法(collapse all)              alt + shift + c<br>33 打开所有方法(expand all)             alt+shift+x<br>34 打开代码所在硬盘文件夹(show in explorer)        ctrl+shift+x<br>35 生成try-catch等(surround with)             alt+shift+z<br>36 局部变量抽取为成员变量(introduce field)         alt+shift+f<br>37 查找/替换(当前)                 ctrl+f<br>38 查找(全局)                   ctrl+h<br>39 查找文件                     double Shift<br>40 查看类的继承结构图(Show UML Diagram)        ctrl + shift + u<br>41 查看方法的多层重写结构(method hierarchy)        ctrl+alt+h<br>42 添加到收藏(add to favorites)    ctrl+alt+f<br>43 抽取方法(Extract Method)               alt+shift+m<br>44 打开最近修改的文件(Recently Files)     ctrl+E<br>45 关闭当前打开的代码栏(close)              ctrl + w</p><p>46 关闭打开的所有代码栏(close all)           ctrl + shift + w<br>47 快速搜索类中的错误(next highlighted error)        ctrl + shift + q<br>48 选择要粘贴的内容(Show in Explorer)          ctrl+shprivate static int num;ift+v<br>49 查找方法在哪里被调用(Call Hierarchy)          ctrl+shift+h</p><p>50 收起方法(Fold selected block)         ctrl + .</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;快捷键的使用：&lt;br&gt;1  执行(run)       alt+r&lt;br&gt;2  提示补全 (Class Name Completion)            alt+/&lt;br&gt;3  单行注释                     ctrl + /&lt;br&gt;4  多行注释 
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 快捷键导入</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:54:46.163Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%BC%E5%85%A5/2.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E5%BF%AB%E6%8D%B7%E9%94%AE
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 修改自定义模板</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E4%BF%AE%E6%94%B9%E5%8F%8A%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E4%BF%AE%E6%94%B9%E5%8F%8A%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T11:01:15.490Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/5.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/6.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF/7.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%87%AA%E5%AE%9A%E4%B9%89
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 插件下载</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%8F%92%E4%BB%B6%E4%B8%8B%E8%BD%BD/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%8F%92%E4%BB%B6%E4%B8%8B%E8%BD%BD/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:59:24.162Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%8F%92%E4%BB%B6%E4%B8%8B%E8%BD%BD/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%8F%92%E4%BB%B6%E4%B8%8B%E8%BD%BD/2.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%8F%92%E4%BB%B6%E4%B8%8B
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 数据库</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T11:00:57.379Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%95%B0%E6%8D%AE%E5%BA%93/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%95%B0%E6%8D%AE%E5%BA%93/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%95%B0%E6%8D%AE%E5%BA%93/3.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%95%B0%E6%8D%AE%E5%BA%93
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 清理缓存和索引</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%B8%85%E7%90%86%E7%BC%93%E5%AD%98%E5%92%8C%E7%B4%A2%E5%BC%95/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%B8%85%E7%90%86%E7%BC%93%E5%AD%98%E5%92%8C%E7%B4%A2%E5%BC%95/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T11:00:19.164Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%B8%85%E7%90%86%E7%BC%93%E5%AD%98%E5%92%8C%E7%B4%A2%E5%BC%95/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%B8%85%E7%90%86%E7%BC%93%E5%AD%98%E5%92%8C%E7%B4%A2%E5%BC%95/2.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%B8%85%E7%90%86%E7%BC%93
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 版本控制</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T11:51:41.384Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/5.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/6.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/7.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/8.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/9.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/10.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/11.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/12.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/13.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/git%E7%89%88%E6%9C%AC%E6%8E
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 生成JavaDoc</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E7%94%9F%E6%88%90JavaDoc/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E7%94%9F%E6%88%90JavaDoc/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T11:55:21.243Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/%E7%94%9F%E6%88%90JavaDoc/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/%E7%94%9F%E6%88%90JavaDoc/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/%E7%94%9F%E6%88%90JavaDoc/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/%E7%94%9F%E6%88%90JavaDoc/4.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.1.0/IDEA/%E7%94%9F%E6%88%90JavaDoc/1
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 断点</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%96%AD%E7%82%B9/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E6%96%AD%E7%82%B9/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:59:56.337Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%96%AD%E7%82%B9/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%96%AD%E7%82%B9/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%96%AD%E7%82%B9/3.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%96%AD%E7%82%B9/4.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%96%AD%E7%82%B9/5.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E6%96%AD%E7%82%B9/1.png&quot; c
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA 导盲 — 虚拟机配置</title>
+    <link href="http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/"/>
+    <id>http://yoursite.com/2019/09/22/IDEA%20%E5%AF%BC%E7%9B%B2%20%E2%80%94%20%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T10:45:56.352Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/3.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;img alt data-src=&quot;https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%99%9A%E6%8B%9F%E6%9C%BA
+      
+    
+    </summary>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/categories/IDEA/"/>
+    
+    
+      <category term="IDEA" scheme="http://yoursite.com/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 语法</title>
+    <link href="http://yoursite.com/2019/09/22/MarkDown/"/>
+    <id>http://yoursite.com/2019/09/22/MarkDown/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-09-22T09:42:56.977Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><h1 id="欢迎使用-Markdown在线编辑器-MdEditor"><a href="#欢迎使用-Markdown在线编辑器-MdEditor" class="headerlink" title="欢迎使用 Markdown在线编辑器 MdEditor"></a>欢迎使用 Markdown在线编辑器 MdEditor</h1><p><strong>Markdown是一种轻量级的「标记语言」</strong></p><p><img alt="markdown" title="markdown" data-src="https://www.mdeditor.com/images/logos/markdown.png" class="lozad"></p><p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”</p><h2 id="MdEditor是一个在线编辑Markdown文档的编辑器"><a href="#MdEditor是一个在线编辑Markdown文档的编辑器" class="headerlink" title="MdEditor是一个在线编辑Markdown文档的编辑器"></a>MdEditor是一个在线编辑Markdown文档的编辑器</h2><p><em>MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原初的Markdown尚不具备。</em></p><blockquote><p>Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如<del>Pandoc</del>，Pandao；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。</p></blockquote><p>MdEditor源于Pandao的JavaScript开源项目，开源地址<a href="https://github.com/pandao/editor.md" target="_blank" rel="noopener" title="Editor.md">Editor.md</a>，并在MIT开源协议的许可范围内进行了优化，以适应广大用户群体的需求。向优秀的markdown开源编辑器原作者Pandao致敬。</p><p><img alt="Pandao editor.md" title="Pandao editor.md" data-src="https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png" class="lozad"></p><h2 id="MdEditor的功能列表演示"><a href="#MdEditor的功能列表演示" class="headerlink" title="MdEditor的功能列表演示"></a>MdEditor的功能列表演示</h2><h1 id="标题H1"><a href="#标题H1" class="headerlink" title="标题H1"></a>标题H1</h1><h2 id="标题H2"><a href="#标题H2" class="headerlink" title="标题H2"></a>标题H2</h2><h3 id="标题H3"><a href="#标题H3" class="headerlink" title="标题H3"></a>标题H3</h3><h4 id="标题H4"><a href="#标题H4" class="headerlink" title="标题H4"></a>标题H4</h4><h5 id="标题H5"><a href="#标题H5" class="headerlink" title="标题H5"></a>标题H5</h5><h6 id="标题H5-1"><a href="#标题H5-1" class="headerlink" title="标题H5"></a>标题H5</h6><h3 id="字符效果和横线等"><a href="#字符效果和横线等" class="headerlink" title="字符效果和横线等"></a>字符效果和横线等</h3><hr><p><del>删除线</del> <s>删除线（开启识别HTML标签时）</s></p><p><em>斜体字</em>      <em>斜体字</em></p><p><strong>粗体</strong>  <strong>粗体</strong></p><p><strong><em>粗斜体</em></strong> <strong><em>粗斜体</em></strong></p><p>上标：X<sub>2</sub>，下标：O<sup>2</sup></p><p><strong>缩写(同HTML的abbr标签)</strong></p><blockquote><p>即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启</p></blockquote><p>The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.</p><h3 id="引用-Blockquotes"><a href="#引用-Blockquotes" class="headerlink" title="引用 Blockquotes"></a>引用 Blockquotes</h3><blockquote><p>引用文本 Blockquotes</p></blockquote><p>引用的行内混合 Blockquotes</p><blockquote><p>引用：如果想要插入空白换行<code>即<br />标签</code>，在插入处先键入两个以上的空格然后回车即可，<a href="https://www.mdeditor.com/" target="_blank" rel="noopener">普通链接</a>。</p></blockquote><h3 id="锚点与链接-Links"><a href="#锚点与链接-Links" class="headerlink" title="锚点与链接 Links"></a>锚点与链接 Links</h3><p><a href="https://www.mdeditor.com/" target="_blank" rel="noopener">普通链接</a><br><a href="https://www.mdeditor.com/" target="_blank" rel="noopener" title="普通链接带标题">普通链接带标题</a><br>直接链接：<a href="https://www.mdeditor.com" target="_blank" rel="noopener">https://www.mdeditor.com</a><br>[锚点链接][anchor-id]<br>[anchor-id]: <a href="https://www.mdeditor.com/" target="_blank" rel="noopener">https://www.mdeditor.com/</a><br><a href="mailto:test.test@gmail.com">mailto:test.test@gmail.com</a><br>GFM a-tail link @pandao<br>邮箱地址自动链接 <a href="mailto:test.test@gmail.com">test.test@gmail.com</a>  <a href="mailto:www@vip.qq.com">www@vip.qq.com</a></p><blockquote><p>@pandao</p></blockquote><h3 id="多语言代码高亮-Codes"><a href="#多语言代码高亮-Codes" class="headerlink" title="多语言代码高亮 Codes"></a>多语言代码高亮 Codes</h3><h4 id="行内代码-Inline-code"><a href="#行内代码-Inline-code" class="headerlink" title="行内代码 Inline code"></a>行内代码 Inline code</h4><p>执行命令：<code>npm install marked</code></p><h4 id="缩进风格"><a href="#缩进风格" class="headerlink" title="缩进风格"></a>缩进风格</h4><p>即缩进四个空格，也做为实现类似 <code><pre></code> 预格式化文本 ( Preformatted Text ) 的功能。</p><pre><code><?php    echo "Hello world!";?></code></pre><p>预格式化文本：</p><pre><code>| First Header  | Second Header || ------------- | ------------- || Content Cell  | Content Cell  || Content Cell  | Content Cell  |</code></pre><h4 id="JS代码"><a href="#JS代码" class="headerlink" title="JS代码"></a>JS代码</h4><figure class="highlight javascript"><table><tbody><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">test</span>(<span class="params"></span>) </span>{</span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">"Hello world!"</span>);</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure><h4 id="HTML-代码-HTML-codes"><a href="#HTML-代码-HTML-codes" class="headerlink" title="HTML 代码 HTML codes"></a>HTML 代码 HTML codes</h4><figure class="highlight html"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta"><!DOCTYPE <span class="meta-keyword">html</span>></span></span><br><span class="line"><span class="tag"><<span class="name">html</span>></span></span><br><span class="line">    <span class="tag"><<span class="name">head</span>></span></span><br><span class="line">        <span class="tag"><<span class="name">mate</span> <span class="attr">charest</span>=<span class="string">"utf-8"</span> /></span></span><br><span class="line">        <span class="tag"><<span class="name">meta</span> <span class="attr">name</span>=<span class="string">"keywords"</span> <span class="attr">content</span>=<span class="string">"Editor.md, Markdown, Editor"</span> /></span></span><br><span class="line">        <span class="tag"><<span class="name">title</span>></span>Hello world!<span class="tag"></<span class="name">title</span>></span></span><br><span class="line">        <span class="tag"><<span class="name">style</span> <span class="attr">type</span>=<span class="string">"text/css"</span>></span></span><br><span class="line"><span class="css">            <span class="selector-tag">body</span>{<span class="attribute">font-size</span>:<span class="number">14px</span>;<span class="attribute">color</span>:<span class="number">#444</span>;<span class="attribute">font-family</span>: <span class="string">"Microsoft Yahei"</span>, Tahoma, <span class="string">"Hiragino Sans GB"</span>, Arial;<span class="attribute">background</span>:<span class="number">#fff</span>;}</span></span><br><span class="line"><span class="css">            <span class="selector-tag">ul</span>{<span class="attribute">list-style</span>: none;}</span></span><br><span class="line"><span class="css">            <span class="selector-tag">img</span>{<span class="attribute">border</span>:none;<span class="attribute">vertical-align</span>: middle;}</span></span><br><span class="line">        <span class="tag"></<span class="name">style</span>></span></span><br><span class="line">    <span class="tag"></<span class="name">head</span>></span></span><br><span class="line">    <span class="tag"><<span class="name">body</span>></span></span><br><span class="line">        <span class="tag"><<span class="name">h1</span> <span class="attr">class</span>=<span class="string">"text-xxl"</span>></span>Hello world!<span class="tag"></<span class="name">h1</span>></span></span><br><span class="line">        <span class="tag"><<span class="name">p</span> <span class="attr">class</span>=<span class="string">"text-green"</span>></span>Plain text<span class="tag"></<span class="name">p</span>></span></span><br><span class="line">    <span class="tag"></<span class="name">body</span>></span></span><br><span class="line"><span class="tag"></<span class="name">html</span>></span></span><br></pre></td></tr></tbody></table></figure><h3 id="图片-Images"><a href="#图片-Images" class="headerlink" title="图片 Images"></a>图片 Images</h3><p>图片加链接 (Image + Link)：</p><p><a href="https://www.mdeditor.com/images/logos/markdown.png" target="_blank" rel="noopener" title="markdown"><img alt data-src="https://www.mdeditor.com/images/logos/markdown.png" class="lozad"></a></p><blockquote><p>Follow your heart.</p></blockquote><hr><h3 id="列表-Lists"><a href="#列表-Lists" class="headerlink" title="列表 Lists"></a>列表 Lists</h3><h4 id="无序列表（减号）Unordered-Lists"><a href="#无序列表（减号）Unordered-Lists" class="headerlink" title="无序列表（减号）Unordered Lists (-)"></a>无序列表（减号）Unordered Lists (-)</h4><ul><li>列表一</li><li>列表二</li><li>列表三</li></ul><h4 id="无序列表（星号）Unordered-Lists"><a href="#无序列表（星号）Unordered-Lists" class="headerlink" title="无序列表（星号）Unordered Lists (*)"></a>无序列表（星号）Unordered Lists (*)</h4><ul><li>列表一</li><li>列表二</li><li>列表三</li></ul><h4 id="无序列表（加号和嵌套）Unordered-Lists"><a href="#无序列表（加号和嵌套）Unordered-Lists" class="headerlink" title="无序列表（加号和嵌套）Unordered Lists (+)"></a>无序列表（加号和嵌套）Unordered Lists (+)</h4><ul><li>列表一</li><li>列表二<ul><li>列表二-1</li><li>列表二-2</li><li>列表二-3</li></ul></li><li>列表三<ul><li>列表一</li><li>列表二</li><li>列表三</li></ul></li></ul><h4 id="有序列表-Ordered-Lists"><a href="#有序列表-Ordered-Lists" class="headerlink" title="有序列表 Ordered Lists (-)"></a>有序列表 Ordered Lists (-)</h4><ol><li>第一行</li><li>第二行</li><li>第三行</li></ol><h4 id="GFM-task-list"><a href="#GFM-task-list" class="headerlink" title="GFM task list"></a>GFM task list</h4><ul><li><input checked disabled type="checkbox"> GFM task list 1</li><li><input checked disabled type="checkbox"> GFM task list 2</li><li><input disabled type="checkbox"> GFM task list 3<ul><li><input disabled type="checkbox"> GFM task list 3-1</li><li><input disabled type="checkbox"> GFM task list 3-2</li><li><input disabled type="checkbox"> GFM task list 3-3</li></ul></li><li><input disabled type="checkbox"> GFM task list 4<ul><li><input disabled type="checkbox"> GFM task list 4-1</li><li><input disabled type="checkbox"> GFM task list 4-2</li></ul></li></ul><hr><h3 id="绘制表格-Tables"><a href="#绘制表格-Tables" class="headerlink" title="绘制表格 Tables"></a>绘制表格 Tables</h3><table><thead><tr><th>项目</th><th align="right">价格</th><th align="center">数量</th></tr></thead><tbody><tr><td>计算机</td><td align="right">$1600</td><td align="center">5</td></tr><tr><td>手机</td><td align="right">$12</td><td align="center">12</td></tr><tr><td>管线</td><td align="right">$1</td><td align="center">234</td></tr></tbody></table><table><thead><tr><th>First Header</th><th>Second Header</th></tr></thead><tbody><tr><td>Content Cell</td><td>Content Cell</td></tr><tr><td>Content Cell</td><td>Content Cell</td></tr></tbody></table><table><thead><tr><th>First Header</th><th>Second Header</th></tr></thead><tbody><tr><td>Content Cell</td><td>Content Cell</td></tr><tr><td>Content Cell</td><td>Content Cell</td></tr></tbody></table><table><thead><tr><th>Function name</th><th>Description</th></tr></thead><tbody><tr><td><code>help()</code></td><td>Display the help window.</td></tr><tr><td><code>destroy()</code></td><td><strong>Destroy your computer!</strong></td></tr></tbody></table><table><thead><tr><th align="left">Left-Aligned</th><th align="center">Center Aligned</th><th align="right">Right Aligned</th></tr></thead><tbody><tr><td align="left">col 3 is</td><td align="center">some wordy text</td><td align="right">$1600</td></tr><tr><td align="left">col 2 is</td><td align="center">centered</td><td align="right">$12</td></tr><tr><td align="left">zebra stripes</td><td align="center">are neat</td><td align="right">$1</td></tr></tbody></table><table><thead><tr><th>Item</th><th align="right">Value</th></tr></thead><tbody><tr><td>Computer</td><td align="right">$1600</td></tr><tr><td>Phone</td><td align="right">$12</td></tr><tr><td>Pipe</td><td align="right">$1</td></tr></tbody></table><hr><h4 id="特殊符号-HTML-Entities-Codes"><a href="#特殊符号-HTML-Entities-Codes" class="headerlink" title="特殊符号 HTML Entities Codes"></a>特殊符号 HTML Entities Codes</h4><p>© &  ¨ ™ ¡ £<br>& < > ¥ € ® ± ¶ § ¦ ¯ « ·</p><p>X² Y³ ¾ ¼  ×  ÷   »</p><p>18ºC  "  '</p><p>[========]</p><h3 id="Emoji表情-smiley"><a href="#Emoji表情-smiley" class="headerlink" title="Emoji表情 :smiley:"></a>Emoji表情 :smiley:</h3><blockquote><p>Blockquotes :star:</p></blockquote><h4 id="GFM-task-lists-amp-Emoji-amp-fontAwesome-icon-emoji-amp-editormd-logo-emoji-editormd-logo-5x"><a href="#GFM-task-lists-amp-Emoji-amp-fontAwesome-icon-emoji-amp-editormd-logo-emoji-editormd-logo-5x" class="headerlink" title="GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:"></a>GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:</h4><ul><li><input checked disabled type="checkbox"> :smiley: @mentions, :smiley: #refs, <a href>links</a>, <strong>formatting</strong>, and <del>tags</del> supported :editormd-logo:;</li><li><input checked disabled type="checkbox"> list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;</li><li><input checked disabled type="checkbox"> [ ] :smiley: this is a complete item :smiley:;</li><li><input disabled type="checkbox"> []this is an incomplete item <a href="#">test link</a> :fa-star: @pandao;</li><li><input disabled type="checkbox"> [ ]this is an incomplete item :fa-star: :fa-gear:;<ul><li><input disabled type="checkbox"> :smiley: this is an incomplete item <a href="#">test link</a> :fa-star: :fa-gear:;</li><li><input disabled type="checkbox"> :smiley: this is  :fa-star: :fa-gear: an incomplete item <a href="#">test link</a>;</li></ul></li></ul><h4 id="反斜杠-Escape"><a href="#反斜杠-Escape" class="headerlink" title="反斜杠 Escape"></a>反斜杠 Escape</h4><p>*literal asterisks*</p><p>[========]</p><h3 id="科学公式-TeX-KaTeX"><a href="#科学公式-TeX-KaTeX" class="headerlink" title="科学公式 TeX(KaTeX)"></a>科学公式 TeX(KaTeX)</h3><p>$$E=mc^2$$</p><p>行内的公式$$E=mc^2$$行内的公式，行内的$$E=mc^2$$公式。</p><p>$$x > y$$</p><p>$$(\sqrt{3x-1}+(1+x)^2)$$</p><p>$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$</p><p>多行公式：</p><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">\displaystyle</span><br><span class="line">\left( \sum\_{k=1}^n a\_k b\_k \right)^2</span><br><span class="line">\leq</span><br><span class="line">\left( \sum\_{k=1}^n a\_k^2 \right)</span><br><span class="line">\left( \sum\_{k=1}^n b\_k^2 \right)</span><br></pre></td></tr></tbody></table></figure><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">\displaystyle</span><br><span class="line">    \frac{1}{</span><br><span class="line">        \Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{</span><br><span class="line">        \frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {</span><br><span class="line">        1+\frac{e^{-6\pi}}</span><br><span class="line">        {1+\frac{e^{-8\pi}}</span><br><span class="line">         {1+\cdots} }</span><br><span class="line">        }</span><br><span class="line">    }</span><br></pre></td></tr></tbody></table></figure><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">f(x) = \int_{-\infty}^\infty</span><br><span class="line">    \hat f(\xi)\,e^{2 \pi i \xi x}</span><br><span class="line">    \,d\xi</span><br></pre></td></tr></tbody></table></figure><h3 id="分页符-Page-break"><a href="#分页符-Page-break" class="headerlink" title="分页符 Page break"></a>分页符 Page break</h3><blockquote><p>Print Test: Ctrl + P</p></blockquote><p>[========]</p><h3 id="绘制流程图-Flowchart"><a href="#绘制流程图-Flowchart" class="headerlink" title="绘制流程图 Flowchart"></a>绘制流程图 Flowchart</h3><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">st=>start: 用户登陆</span><br><span class="line">op=>operation: 登陆操作</span><br><span class="line">cond=>condition: 登陆成功 Yes or No?</span><br><span class="line">e=>end: 进入后台</span><br><span class="line"></span><br><span class="line">st->op->cond</span><br><span class="line">cond(yes)->e</span><br><span class="line">cond(no)->op</span><br></pre></td></tr></tbody></table></figure><p>[========]</p><h3 id="绘制序列图-Sequence-Diagram"><a href="#绘制序列图-Sequence-Diagram" class="headerlink" title="绘制序列图 Sequence Diagram"></a>绘制序列图 Sequence Diagram</h3><figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">Andrew->China: Says Hello</span><br><span class="line">Note right of China: China thinks\nabout it</span><br><span class="line">China-->Andrew: How are you?</span><br><span class="line">Andrew->>China: I am good thanks!</span><br></pre></td></tr></tbody></table></figure><h3 id="End"><a href="#End" class="headerlink" title="End"></a>End</h3></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h1 id=&quot;欢迎使用-Markdown在线编辑器-MdEditor&quot;&gt;&lt;a href=&quot;#欢迎使用-Markdown在线编辑器-MdEditor&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Markdown
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>架构师探索 — （一）</title>
+    <link href="http://yoursite.com/2019/09/22/%E6%9E%B6%E6%9E%84%E5%B8%88%E6%8E%A2%E7%B4%A2%20%E2%80%94%20%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/09/22/%E6%9E%B6%E6%9E%84%E5%B8%88%E6%8E%A2%E7%B4%A2%20%E2%80%94%20%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2019-09-22T08:59:55.000Z</published>
+    <updated>2019-10-12T14:37:38.908Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><p>##CAP理论<br>CAP理论提出就是针对分布式数据库环境的，所以，P这个属性是必须具备的。<br>P就是在分布式环境中，由于网络的问题可能导致某个节点和其它节点失去联系，这时候就形成了P(partition)，也就是由于网络问题，将系统的成员隔离成了2个区域，互相无法知道对方的状态，这在分布式环境下是非常常见的。<br>因为P是必须的，那么我们需要选择的就是A和C。<br>大家知道，在分布式环境下，为了保证系统可用性，通常都采取了复制的方式，避免一个节点损坏，导致系统不可用。那么就出现了每个节点上的数据出现了很多个副本的情况，而数据从一个节点复制到另外的节点时需要时间和要求网络畅通的，所以，当P发生时，也就是无法向某个节点复制数据时，这时候你有两个选择：<br>选择可用性 A(Availability)，此时，那个失去联系的节点依然可以向系统提供服务，不过它的数据就不能保证是同步的了（失去了C属性）。<br>选择一致性C(Consistency)，为了保证数据库的一致性，我们必须等待失去联系的节点恢复过来，在这个过程中，那个节点是不允许对外提供服务的，这时候系统处于不可用状态(失去了A属性)。</p><p>最常见的例子是读写分离，某个节点负责写入数据，然后将数据同步到其它节点，其它节点提供读取的服务，当两个节点出现通信问题时，你就面临着选择A（继续提供服务，但是数据不保证准确），C（用户处于等待状态，一直等到数据同步完成）。</p><p><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/1.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/2.png" class="lozad"><br><img alt data-src="https://cdn.jsdelivr.net/gh/cuiqian-006/CDNBlogStatic@v1.0.0/IDEA/%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%85%8D%E7%BD%AE/3.png" class="lozad"></p></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;##CAP理论&lt;br&gt;CAP理论提出就是针对分布式数据库环境的，所以，P这个属性是必须具备的。&lt;br&gt;P就是在分布式环境中，由于网络的问题可能导致某个节点和其它节点失去联系，这时候就形成了P(partition)，也就是由于
+      
+    
+    </summary>
+    
+    
+      <category term="架构师" scheme="http://yoursite.com/categories/%E6%9E%B6%E6%9E%84%E5%B8%88/"/>
+    
+    
+      <category term="架构师" scheme="http://yoursite.com/tags/%E6%9E%B6%E6%9E%84%E5%B8%88/"/>
+    
+  </entry>
+  
+</feed>
